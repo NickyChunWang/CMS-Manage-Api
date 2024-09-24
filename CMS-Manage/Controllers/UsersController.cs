@@ -19,7 +19,7 @@ namespace CMS_Manage.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value";
+            return "valuee";
         }
 
         // POST api/<UsersController>
