@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS-Manage", "CMS-Manage\CMS-Manage.csproj", "{2E00D3A2-266E-4B97-BF24-7000FA23D87A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS-Manage-Api", "CMS-Manage-Api\CMS-Manage-Api.csproj", "{4AC0433C-94EC-4B74-9956-AF4D2F910228}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2E00D3A2-266E-4B97-BF24-7000FA23D87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2E00D3A2-266E-4B97-BF24-7000FA23D87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2E00D3A2-266E-4B97-BF24-7000FA23D87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2E00D3A2-266E-4B97-BF24-7000FA23D87A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC0433C-94EC-4B74-9956-AF4D2F910228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC0433C-94EC-4B74-9956-AF4D2F910228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC0433C-94EC-4B74-9956-AF4D2F910228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC0433C-94EC-4B74-9956-AF4D2F910228}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D7B53DAF-81B3-4C38-AA31-46205412E95E}
+		SolutionGuid = {37B0EB4C-F8F6-4AE2-AB65-4A18C82BA42A}
 	EndGlobalSection
 EndGlobal
